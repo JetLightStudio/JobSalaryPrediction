@@ -7,7 +7,7 @@ When you think of data science and machine learning two programming languages ar
 # Screenshot
 ![ML.NET Regression prediction](https://user-images.githubusercontent.com/24621701/43158566-dc6bf170-8f77-11e8-9917-14f5ed0804ab.png)
 
-# Get started 
+# Getting started
 * You should have .net core 2.0 or above installed
 * Run `dotnet restore`
 * Run `dotnet run`
